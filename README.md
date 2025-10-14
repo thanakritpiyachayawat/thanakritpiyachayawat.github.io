@@ -1,4 +1,3 @@
-# thanakritpiyachayawat.github.io
 # Thanakrit Piyachayawat
 
 [📄 View My Resume (PDF)](Thanakrit_Piyachayawat_Resume.pdf)
