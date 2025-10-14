@@ -1,6 +1,6 @@
 # Thanakrit Piyachayawat
 
-[📄 View My Resume (PDF)](Thanakrit_Piyachayawat_Resume.pdf)
+[📄 View My Resume (PDF)](My New CV (October 2025).pdf)
 
 Master’s-level Industrial Engineer | Optimization • Simulation • Logistics
 
