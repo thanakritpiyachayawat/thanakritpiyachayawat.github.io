@@ -35,3 +35,12 @@ li{margin:4px 0;}
   .wrapper{padding:0;}
   .section h2{border-color:#ccc;}
 }
+
+.portrait{
+  max-height:130px;
+  max-width:130px;
+  border-radius:10px;
+  border:1px solid var(--border);
+  object-fit:cover;
+  background:#fff;
+}
